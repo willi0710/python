@@ -11,3 +11,4 @@ Objetivos: Se deben establecer los objetivos de la política de seguridad de la 
 
 Roles y responsabilidades: En esta sección se deben definir los roles y responsabilidades de los diferentes miembros de la organización en relación con la seguridad de la información.
 
+que paso
